@@ -8,8 +8,8 @@
 Kurumi aims to be a **voice-controlled, on-device AI companion** that can:
 
 1. Recognise your spoken commands  
-2. Reason on top of an LLM (OpenAI by default)  
-3. Speak the answer back with high-quality TTS  
+2. Reason on top of an LLM 
+3. Speak the answer back with high-quality TTS  (and here is the answer why the name of project is Kurumi because i wanted to do the voice similar to kurumis original)
 4. Trigger local PC actions (open apps, search the web, etc.)  
 5. *Coming soon*: learn from its own logs and refactor itself
 
