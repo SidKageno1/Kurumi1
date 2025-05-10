@@ -23,7 +23,7 @@ Kurumi aims to be a **voice-controlled, on-device AI companion** that can:
 | **Computer Vision** | `yolov8n.pt` | Optional object-detection for “What’s on my desk?” queries |
 | **Self-Update** | experimental | Analyses its own logs ➜ suggests code patches (disabled by default) |
 
-*(See the code tree for details :contentReference[oaicite:1]{index=1}.)*
+
 
 ---
 
@@ -42,9 +42,9 @@ source .venv/bin/activate      # Windows: .venv\Scripts\activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 
-# 4. Provide your keys (at least one)
-export OPENAI_API_KEY="sk-..."          # for LLM
-# OPTIONAL: export ELEVENLABS_API_KEY=...
+# 4. Provide your keys 
+well here i'm using hugging_face and Llama-3.1 (it is located in llm.py)
+but feel free to change it
 
 # 5. Run!
 python main.py
