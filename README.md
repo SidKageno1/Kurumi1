@@ -51,4 +51,6 @@ python main.py
 
 
 
-P.S: As i sad before the project is raw and it nedds more cooking so fi u are intrested feel free to jump in!
+P.S: As i sad before the project is raw and it nedds more cooking so if u are intrested feel free to jump in!
+
+P.P.S: before running the project please create folder e.g Kurumi1 and place project there then you can edit and run it (you may ask why i didn't put root folder cuz i wanted to minimize the size of the project on git)
